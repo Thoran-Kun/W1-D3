@@ -14,3 +14,50 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div {
+  padding-left: 15px;
+  background-color: none;
+  border-left: 2px solid orange;
+}
+
+div h4 {
+  text-align: start;
+  color: red;
+}
+
+div p {
+  text-align: start;
+  color: aqua;
+}
+
+footer {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.ingredients {
+  padding-top: 30px;
+}
+
+.subtitle {
+  text-align: center;
+  color: rgb(156, 156, 157);
+}
+
+.my-hr {
+  border: 0;
+  height: 1px;
+  background-color: aqua;
+}
